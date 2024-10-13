@@ -10,7 +10,7 @@ RESULTS_DIRECTORY = "pca_results"
 
 INITIAL_IMAGE_HEIGHT = 3024
 INITIAL_IMAGE_WIDTH = 4032
-IMAGE_REDUCTION_SCALE = 24  # must be a common factor of height and width (may be the greatest, as is the case)
+IMAGE_REDUCTION_SCALE = 24  # must be a common factor of height and width
 KEPT_EIGEN_VECTORS_RATE = 0.16  # arbitrary rate, fine-tuned after seeing results
 
 
